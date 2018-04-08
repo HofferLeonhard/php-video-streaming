@@ -3,7 +3,7 @@ Simple php to stream the video flux
 
 #### Supported formats 
 
-Only mp4 formats are currently supported
+Only mp4 and webm formats are currently supported
 
 
 #### How to use
