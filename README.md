@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# php-video-streaming
-Simple php to stream the video flux
-=======
 # php-video-streaming
 Simple php to stream the video flux
 
@@ -29,4 +25,3 @@ Just run the index.php file to get an example of use.
 
 
 Enjoy it !
->>>>>>> Initial commit
